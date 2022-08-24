@@ -1,0 +1,36 @@
+body{
+    font: normal 1em arial;
+    background-color: black;
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+
+form{
+    border: solid 1px white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 350px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+.btn:hover{
+    background-color: antiquewhite;
+}
+div{
+    text-align: center;
+}
